@@ -96,7 +96,7 @@ GEM
     mini_portile2 (2.0.0)
     mocha (0.13.3)
       metaclass (~> 0.0.1)
-    multi_json (1.11.2)
+    multi_json (1.11.3)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
     plek (1.12.0)
